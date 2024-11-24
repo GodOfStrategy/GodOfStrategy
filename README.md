@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My Coding Journey! 👋
 
-<!--
-**GodOfStrategy/GodOfStrategy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Shaurya Baitule**!  
+I'm a **Class 8 student**, passionate about coding and enthusiastic about solving real-world problems through technology.  
 
-Here are some ideas to get you started:
+## Skills I'm Learning  
+- **Programming Languages:** Python 🐍  
+- **Web Development:** HTML, CSS 🌐  
+- Exploring how to build functional and visually appealing websites while mastering the art of problem-solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals  
+- To become a proficient developer.  
+- To create projects that make an impact.  
+- To keep learning and growing in the field of technology.  
+
+## Fun Fact  
+I believe in writing clean, creative, and efficient code because every problem has a solution waiting to be discovered!  
+
+Stay tuned for exciting projects and ideas. 🚀  
+
+📫 **Connect with me:** [shaurya11.baitule@gmail.com or 8983729925(Whatsapp)]
