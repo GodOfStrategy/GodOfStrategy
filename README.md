@@ -1,11 +1,12 @@
 # Welcome to My Coding Journey! 👋
 
 Hi, I'm **Shaurya Baitule**!  
-I'm a **Class 8 student**, passionate about coding and enthusiastic about solving real-world problems through technology.  
+I'm a **Class 9 student**, passionate about coding and enthusiastic about solving real-world problems through technology.  
 
 ## Skills I'm Learning  
 - **Programming Languages:** Python 🐍  
-- **Web Development:** HTML, CSS 🌐  
+- **Web Development:** HTML, CSS 🌐
+- **Backend** Javascript (currently Learning) 
 - Exploring how to build functional and visually appealing websites while mastering the art of problem-solving.  
 
 ## My Goals  
