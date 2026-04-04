@@ -6,7 +6,7 @@ I'm a **Class 9 student**, passionate about coding and enthusiastic about solvin
 ## Skills I'm Learning  
 - **Programming Languages:** Python 🐍  
 - **Web Development:** HTML, CSS 🌐
-- **Backend** Javascript (currently Learning) 
+- **Backend** Javascript
 - Exploring how to build functional and visually appealing websites while mastering the art of problem-solving.  
 
 ## My Goals  
